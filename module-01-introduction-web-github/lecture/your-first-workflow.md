@@ -7,7 +7,7 @@ A website usually begins as files on your computer. You create and edit those fi
 To learn more about how a simple website comes together, review:  
 [MDN Web Docs: Your First Website](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website)
 
-![Web development workflow diagram showing create files, test in browser, save to GitHub, and publish later.](images/01-web-workflow.png)
+![Web development workflow diagram showing create files, test in browser, save to GitHub, and publish later.](images/M1-Lecture1.png)
 
 ---
 
@@ -26,7 +26,7 @@ In Module 1, you will begin with HTML because every webpage needs structure befo
 To learn more about the basic tools and concepts used in web development, review:  
 [MDN Web Docs: Getting Started Modules](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started)
 
-![Three building blocks labeled HTML structure, CSS style, and JavaScript interaction.](images/02-html-css-js.png)
+![Three building blocks labeled HTML structure, CSS style, and JavaScript interaction.](images/M1-Lecture2.png)
 
 ---
 
@@ -45,7 +45,7 @@ This course uses several important tools. You do not need to become an expert wi
 To learn more about GitHub and why developers use it, complete the assigned Microsoft Learn module as part of this week’s lab:  
 [Microsoft Learn: Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
 
-![Course tools diagram showing VS Code, browser, GitHub, and GitHub Pages.](images/03-course-tools.png)
+![Course tools diagram showing VS Code, browser, GitHub, and GitHub Pages.](images/M1-Lecture3.png)
 
 ---
 
@@ -71,7 +71,7 @@ The **README.md** file is a short description of your project. In GitHub, a READ
 To learn more about creating a basic webpage file, review:  
 [MDN Web Docs: Your First Website](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website)
 
-![Example project folder structure showing hello-web with index.html and README.md files.](images/04-files-folders.png)
+![Example project folder structure showing hello-web with index.html and README.md files.](images/M1-Lecture4.png)
 
 ---
 
@@ -123,7 +123,7 @@ At this stage, your page does not need to be fancy. The goal is to create a work
 To learn more about HTML syntax and page structure, review:  
 [MDN Web Docs: Basic HTML Syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 
-![Side-by-side example showing HTML code on the left and browser output on the right.](images/05-first-html-page.png)
+![Side-by-side example showing HTML code on the left and browser output on the right.](images/M1-Lecture5.png)
 
 ---
 
@@ -140,7 +140,7 @@ You do not need to learn every GitHub feature right now. In Module 1, focus on c
 To learn how to create your first repository, review:  
 [GitHub Docs: Quickstart for Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 
-![Two-column comparison showing a project folder on a computer and a repository on GitHub.](images/06-what-is-github.png)
+![Two-column comparison showing a project folder on a computer and a repository on GitHub.](images/M1-Lecture6.png)
 
 ---
 
@@ -164,7 +164,7 @@ Later in the course, you will learn how to use GitHub Pages to publish selected 
 To learn more about GitHub repositories, review:  
 [GitHub Docs: Quickstart for Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 
-![Step-by-step diagram showing index.html moving from a local computer into a GitHub repository.](images/07-save-to-github.png)
+![Step-by-step diagram showing index.html moving from a local computer into a GitHub repository.](images/M1-Lecture7.png)
 
 ---
 
@@ -191,7 +191,7 @@ In this course, AI is a support tool. You are still responsible for your final w
 To learn more about GitHub Copilot as a coding support tool, you may review:  
 [Microsoft Learn: Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
 
-![Illustration showing AI as a support tool helping a student think through code while the student remains responsible for the work.](images/08-ai-support-tool.png)
+![Illustration showing AI as a support tool helping a student think through code while the student remains responsible for the work.](images/M1-Lecture8.png)
 
 ---
 
@@ -215,7 +215,7 @@ The goal for this module is to get started, practice the workflow, and build con
 To review how these pieces fit together, return to:  
 [MDN Web Docs: Your First Website](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website)
 
-![Checklist graphic showing Module 1 tasks: install tools, practice coding, create files, create GitHub repository, and submit evidence.](images/09-module-01-checklist.png)
+![Checklist graphic showing Module 1 tasks: install tools, practice coding, create files, create GitHub repository, and submit evidence.](images/M1-Lecture9.png)
 
 ---
 
